@@ -1,0 +1,9 @@
+{
+  label = "Cyan Concrete Computer Cover",
+  shapes = {
+    {0, 0, 0, 1, 3, 16, texture = "concrete_cyan"},
+    {0, 0, 0, 1, 16, 2, texture = "concrete_cyan"},
+    {0,14,0,1,16,16, texture = "concrete_cyan"},
+    {0, 0, 14, 1, 16, 16ow about something that uses the Tier 2 Hologram Projector to roughly show your desig, texture = "concrete_cyan"},
+  }
+}
